@@ -2,96 +2,159 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Alessandro Tundo
     - name: Languages
-      value: English, German
+      value: Italian (native), English (fluent), Spanish (basic)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Computer Science
+      institution: University of Milano-Bicocca, Milan, Italy
+      year: 2020-2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis title: \"Adapt and Automate: Efficiently Monitoring in the Cloud Continuum\""
+        - "Thesis advisor: Prof. Leonardo Mariani"
+        - "Final grade: wih distinction"
+    - title: M.Sc., Computer Science
+      institution: University of Milano-Bicocca, Milan, Italy
+      year: 2016-2018
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis title: \"Adapt and Automate: Efficiently Monitoring in the Cloud Continuum\""
+        - "Thesis advisor: Prof. Leonardo Mariani"
+        - "Final grade: 110/110 cum laude"
+    - title: B.Sc., Computer Science
+      institution: University of Milano-Bicocca, Milan, Italy
+      year: 2013-2016
+      description:
+        - "Thesis advisor: Prof. Marco Palmonari"
+        - "Final grade: 110/110 cum laude"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Technische Universität Wien, Vienna, Austria
+      year: 05/2024-now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - I'm part of the <a href="http://hpc.ec.tuwien.ac.at/">High Performance Computing (HPC) Group</a> lead by <a href="https://www.ec.tuwien.ac.at/~ivona/"> Prof. Ivona Brandic</a>.
+    - title: Predoctoral Researcher
+      institution: Technische Universität Wien, Vienna, Austria
+      year: 02/2024-04/2024
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Visiting PhD Student
+      institution: Technische Universität Wien, Vienna, Austria
+      year: 09/2022-01/2024
+      description:
+    - title: IT Consultant
+      institution: Milan, Italy
+      year: 01/2020-12/2023
+      description:
+    - title: Research Scholarship Holder
+      institution: University of Milano-Bicocca, Milan, Italy
+      year: 01/2020-11/2020
+      description:
+    - title: Independent Researcher
+      institution: Quisque Srl., Milan, Italy
+      year: 01/2020-10/2020
+      description:
+    - title: Research Assistant (Assegnista di Ricerca)
+      institution: University of Milano-Bicocca, Milan, Italy
+      year: 01/2019-01/2020
+      description:
+    - title: Research Scholarship Holder
+      institution: Consortium GARR, Rome, Italy
+      year: 01/2017-12/2018
+      description:
+    - title: Full Stack Developer
+      institution: 2Program Srl., Milan, Italy
+      year: 12/2015-02/2017
       description:
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
+- title: Services
+  type: nested_list
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Program Committee
+      items:
+        - <strong>PC member (Artifact Evaluation Track)</strong>, International Conference on Software Engineer (ICSE) 2025.
+        - <strong>PC member (Main Track)</strong>, International Web Information Systems Engineering Conference (WISE) 2024.
+    - title: Journal Reviewer
+      items:
+        - ACM Transactions on Software Engineering and Methodology (TOSEM)
+    - title: Sub Reviewer
+      items:
+        - IEEE CLOUD 2024
+        - IEEE EDGE 2024
+
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Best Short-Paper Award @ 12th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
+    - year: 2019
       items:
-        - Max Planck Medal
+        - Winner team (People's choice prize) @ HackTheCloud
+    - year: 2018
+      items:
+        - Winner team (2nd prize) @ HackTheCloud
+    - year: 2017
+      items:
+        - Winner team @ Hack.Developers
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+# - title: Presentation and Talks
+#   type: time_table
+#   contents:
+#     - year: 2023
+#       items:
+#         - Data-Centric Edge-AI,  @IEEE Services,  Chicago, USA, 2023 (online). 
+#     - year: 2022
+#       items:
+#         - DEMon- Decentralized Monitoring in Highly Volatile Edge,  @IEEE UCC 22,  Washington, USA, 2022.
+#     - year: 2021
+#       items:
+#         - Programming Abstractions in Cloud, Invited Guest Lecture for Internet Technology Course (Semester 2, 2021), @Faculty of Engineering and Information Technology, University of Melbourne, Australia, September 2021 (online).
+#         - A Data-Driven Frequency Scaling and Energy Efficient Scheduling on GPUs, @IEEE CCGRID, May 2021 (online).
+#         - A Data-Driven Frequency Scaling and Energy Efficient Scheduling on GPUs, @Vienna University of Technology (TU Wien), March , 2021 (online)
+#         - Learning-based Energy and Thermal Efficient Resource Management Algorithms for Cloud Data Centres, @ University of Adelaide, Australia, April 2021.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#     - year: 2020
+#       items:
+#         - Artificial Intelligence (AI)-Centric Management of Resources in Modern Distributed Computing Systems, @IEEE Cloud Summit, Harrisbury, Pennsylvania, USA, October 21-22, 2020 (online).
+#         - Programming the Cloud- Towards Serverless Computing, Invited Talk, Faculty Development Workshops, @GMR Institute of Technology, AP, India, June 2020 (online).
+#     # - year: 2019
+#     #   items:
+#     - year: 2018
+#       items:
+#         - ETAS- Energy and Thermal-Aware Dynamic Virtual Machine Consolidation in Cloud Data Center with Proactive Hotspot Mitigation, @6th CIS Annual Doctoral Colloquium at the University of Melbourne, Melbourne, Australia, July 2018.
+#     - year: 2017
+#       items:
+#         - Scalable MapReduce-based Fuzzy Min-Max Neural Network for Pattern Classification, @18th International Conference on Distributed Computing and Networking (ICDCN, 2017), Hyderabad, India, January 2017.
+#     - year: 2016
+#       items:
+#         - Heterogeneous Parallel Computing on Clouds using Aneka PaaS Tool, Invited Talk, One Week National Level Research-Oriented Workshop on Cloud and GPU Computing (Cloud-GPU 2016), Jawaharlal Nehru Technological University (JNTU), Kakinada, India, August 8-12, 2016.
+#         - Heterogeneous Parallel Computing using CUDA Toolkit, Invited Talk, CVR College of Engineering, Hyderabad, India, March 2016.
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
