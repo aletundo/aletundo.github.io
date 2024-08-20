@@ -46,7 +46,7 @@
       institution: Milan, Italy
       year: 01/2020-12/2023
       description:
-        - I provided consultancy services for the design and development of software systems in the food delivery domain, fashion industry, and e-commerce. 
+        - I provided consultancy services for the design and development of software systems in the food delivery domain, fashion industry, and e-commerce.
     - title: Research Scholarship Holder
       institution: University of Milano-Bicocca, Milan, Italy
       year: 01/2020-11/2020
@@ -70,10 +70,10 @@
       institution: Consortium GARR, Rome, Italy
       year: 01/2017-12/2018
       description:
-      - The research activity involved cloud-native architectures for Open Educational Resources (OER) and integrations into Learning Management Systems (LMS).
-      - The research work was supervised by PRof. Daniela Micucci (University of Milano-Bicocca) and by the GARR Scientific and Technical Committee.
-      - In particular, I worked on the design and development of a new version of the WikiToLearn platform.
-      - WikiToLearn was a wiki-based open source project for collaborative textbooks writing under the KDE Community umbrella.
+        - The research activity involved cloud-native architectures for Open Educational Resources (OER) and integrations into Learning Management Systems (LMS).
+        - The research work was supervised by PRof. Daniela Micucci (University of Milano-Bicocca) and by the GARR Scientific and Technical Committee.
+        - In particular, I worked on the design and development of a new version of the WikiToLearn platform.
+        - WikiToLearn was a wiki-based open source project for collaborative textbooks writing under the KDE Community umbrella.
     - title: Full Stack Developer
       institution: 2Program Srl., Milan, Italy
       year: 12/2015-02/2017
@@ -136,4 +136,3 @@
     - year: 2018
       items:
         - "Automazione e monitoring: la cultura DevOps attraverso due casi di studio [Invited Talk] | Workshop GARR, Rome, Italy."
-

@@ -13,7 +13,9 @@ master students.
 <a id="teaching"></a>
 
 ### Teaching
+
 #### Fixed-term Teaching Assistant
+
 _Laboratory lecturer and tutor, University of Milano-Bicocca, Italy_
 
 Supplementary educational activities for several B.Sc. and M.Sc. courses, mainly for the Computer Science degree.
@@ -23,12 +25,13 @@ laboratory final projects or assignments.
 - Software Development Process (M.Sc. Computer Science) [A.Y. 19-20, 20-21, 21-22, 22-23, 23-24]
 - Cloud Computing (M.Sc. Computer Science) [A.Y. 19-20, 20-21, 21-22]
 - Data Management & Visualization (M.Sc. Data Science) [A.Y. 19-20]
-- Computer Science Laboratory I (B.Sc. Physics) [A.Y. 19-20] 
+- Computer Science Laboratory I (B.Sc. Physics) [A.Y. 19-20]
 - Distributed Systems (B.Sc. Computer Science) [A.Y. 17-18, 19-20]
 
 <a id="superivsion"></a>
 
 ### Supervision
+
 - **Ms. Julia Oberauner**, _Master Thesis_, "Dynamic Power Management in Edge AI: A Sustainable Self-Adaptive Approach", TU Wien, Austria, ongoing.
 - **Mr. Alexander Stefitz**, _Master Thesis_, "Anomaly Detection in Redundant Sensor Systems: A Comparative Study Using Photovoltaic Power Plant Data", TU Wien, Austria, ongoing.
 - **Mr. Bryan Ivan Zhigui Guerrero**, _Master Thesis_, "Model-driven Automatic Dashboard Generation", University of Milano-Bicocca, Italy, 2024.
@@ -40,5 +43,5 @@ laboratory final projects or assignments.
 - **Mr. Omar Ghetti**, _Master Thesis_, "Dynamic Dashboard Generator For Continuous Monitoring", University of Milano-Bicocca, Italy, 2021.
 - **Mr. Davide Motterlini**, _Master Thesis_, "Studio e realizzazione di un’architettura peer-to-peer per l’esecuzione decentralizzata di funzioni FaaS", University of Milano-Bicocca, Italy, 2021.
 - **Mr. Federico Alessi**, _Master Thesis_, "Smart Probes for Cloud Systems", University of Milano-Bicocca, Italy, 2021.
-- **Mr. Lorenzo Di Vito**,  _Master Thesis_, "A Dynamic Dashboard Generator for Cloud Monitoring", University of Milano-Bicocca, Italy, 2019.
+- **Mr. Lorenzo Di Vito**, _Master Thesis_, "A Dynamic Dashboard Generator for Cloud Monitoring", University of Milano-Bicocca, Italy, 2019.
 - **Ms. Chiara Castelnovo**, _Bachelor Thesis_, "Generazione Dichiarativa di Dashboard", University of Milano-Bicocca, Italy, 2019.
