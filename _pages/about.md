@@ -20,8 +20,8 @@ social: true # includes social icons at the bottom of the page
 
 Hello, I'm happy you landed here!
 
-I'm a Postdoctoral Researcher at the Institute of Information Systems Engineering, Technische Universität Wien, Vienna, Austria. In particular, I'm part of the [High Performance Computing (HPC) Group](http://hpc.ec.tuwien.ac.at/).
+I'm a Postdoctoral Researcher at the Institute of Information Systems Engineering, Technische Universität Wien, Vienna, Austria. In particular, I'm part of the [High Performance Computing (HPC) Group](http://hpc.ec.tuwien.ac.at/) lead by [Prof. Ivona Brandić](https://www.ec.tuwien.ac.at/~ivona/).
 
 My research interests are in the intersection of distributed systems and software architectures, with a particular focus on self-adaptivity, energy efficiency, and monitoring in the cloud continuum.
 
-Previously, I received my Ph.D. in Computer Science with a honor mention from the University of Milano-Bicocca in 2024.
+Previously, I received my Ph.D. in Computer Science with a honorable mention from the University of Milano-Bicocca in 2024.
