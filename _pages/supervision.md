@@ -10,7 +10,7 @@ nav_order: 4
 I have been actively involved in co-supervision activities of both bachelor and
 master students.
 
-- **Mr. Gabriele Sparacino**, __Master Thesis_, "", University of Milano-Bicocca, Italy, ongoing.
+- **Mr. Gabriele Sparacino**, _Master Thesis_, "Achieving Prediction-Based Self-Adaptive Monitoring Wireless Sensor Networks", University of Milano-Bicocca, Italy, ongoing.
 - **Ms. Julia Oberauner**, _Master Thesis_, "Dynamic Power Management in Edge AI: A Sustainable Self-Adaptive Approach", TU Wien, Austria, ongoing.
 - **Mr. Alexander Stefitz**, _Master Thesis_, "Anomaly Detection in Redundant Sensor Systems: A Comparative Study Using Photovoltaic Power Plant Data", TU Wien, Austria, ongoing.
 - **Mr. Bryan Ivan Zhigui Guerrero**, _Master Thesis_, "Model-driven Automatic Dashboard Generation", University of Milano-Bicocca, Italy, 2024.
