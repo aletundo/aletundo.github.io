@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description:
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 
 I have been actively involved in [teaching](#teaching) activities in both bachelor and master degree programs.
