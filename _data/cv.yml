@@ -2,137 +2,96 @@
   type: map
   contents:
     - name: Full Name
-      value: Alessandro Tundo
+      value: Albert Einstein
+    - name: Date of Birth
+      value: 14th March 1879
     - name: Languages
-      value: Italian (native), English (fluent), Spanish (basic)
+      value: English, German
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD, Computer Science
-      institution: University of Milano-Bicocca, Milan, Italy
-      year: 11/2020-05/2024
+    - title: PhD
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1905
       description:
-        - 'Thesis title: "Adapt and Automate: Efficiently Monitoring in the Cloud Continuum"'
-        - "Thesis advisor: Prof. Leonardo Mariani"
-        - "Final grade: excellent with honorable mention"
-    - title: M.Sc., Computer Science
-      institution: University of Milano-Bicocca, Milan, Italy
-      year: 2016-2018
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Federal teaching diploma
+      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
+      year: 1900
       description:
-        - "Thesis advisor: Prof. Leonardo Mariani"
-        - "Final grade: 110/110 cum laude"
-    - title: B.Sc., Computer Science
-      institution: University of Milano-Bicocca, Milan, Italy
-      year: 2013-2016
-      description:
-        - "Thesis advisor: Prof. Marco Palmonari"
-        - "Final grade: 110/110 cum laude"
+        - Description 1.
+        - Description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral Researcher
-      institution: Technische Universität Wien, Vienna, Austria
-      year: 05/2024-now
+    - title: Professor of Theoretical Physics
+      institution: Institute for Advanced Study, Princeton University
+      year: 1933 - 1955
       description:
-        - I'm part of the <a href="http://hpc.ec.tuwien.ac.at/">High Performance Computing (HPC) Group</a> lead by <a href="https://www.ec.tuwien.ac.at/~ivona/"> Prof. Ivona Brandić</a>.
-        - My research focuses on the design and development of self-adaptive and energy-efficient software systems for the cloud continuum.
-    - title: Visiting PhD Student
-      institution: Technische Universität Wien, Vienna, Austria
-      year: 09/2022-01/2024
+        - Description 1.
+        - Description 2.
+        - title: Description 3.
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
+    - title: Visiting Professor
+      institution: California Institute of Technology, Pasadena, California, US
+      year: 1933
       description:
-    - title: IT Consultant
-      institution: Milan, Italy
-      year: 01/2020-12/2023
-      description:
-        - I provided consultancy services for the design and development of software systems in the food delivery domain, fashion industry, and e-commerce.
-    - title: Research Scholarship Holder
-      institution: University of Milano-Bicocca, Milan, Italy
-      year: 01/2020-11/2020
-      description:
-        - The research activity entitled aims to extend and enhance the main functionalities of the VARYS framework.
-        - VARYS is a technology agnostic model-driven Monitoring-as-a-Service framework for the Cloud.
-        - The research work was supervised by Prof. Leonardo Mariani.
-    - title: Independent Researcher
-      institution: Quisque Srl., Milan, Italy
-      year: 01/2020-10/2020
-      description:
-        - I worked on the design and optimization of DevOps software development cycles.
-    - title: Research Assistant (Assegnista di Ricerca)
-      institution: University of Milano-Bicocca, Milan, Italy
-      year: 01/2019-01/2020
-      description:
-        - The research activity was focused on designing approaches and techniques for application monitoring, anomaly detection and self-healing in Cloud Computing systems.
-        - The research work was carried out first the scope of the LEARN - Learning from Failing and Passing Executions at the Speed of Internet project (8 months) and next for the GAUSS - Governing Adaptive Unplanned Systems of Systems project (4 months).
-        - The research work was supervised by Prof. Leonardo Mariani.
-    - title: Research Scholarship Holder
-      institution: Consortium GARR, Rome, Italy
-      year: 01/2017-12/2018
-      description:
-        - The research activity involved cloud-native architectures for Open Educational Resources (OER) and integrations into Learning Management Systems (LMS).
-        - The research work was supervised by PRof. Daniela Micucci (University of Milano-Bicocca) and by the GARR Scientific and Technical Committee.
-        - In particular, I worked on the design and development of a new version of the WikiToLearn platform.
-        - WikiToLearn was a wiki-based open source project for collaborative textbooks writing under the KDE Community umbrella.
-    - title: Full Stack Developer
-      institution: 2Program Srl., Milan, Italy
-      year: 12/2015-02/2017
-      description:
-        - Design and development of web applications and CMS from scratch.
+        - Description 1.
+        - Description 2.
 
-- title: Services
-  type: nested_list
+    - title: Director
+      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
+      year: 1917-1933
+
+    - title: Professor of Theoretical Physics
+      institution: Karl-Ferdinand University, Prague, Czechoslovakia
+      year: 1911 - 1917
+      description:
+
+    - title: Associate Professor of Theoretical Physics
+      institution: University of Zurich, Zurich, Switzerland
+      year: 1909 - 1911
+
+- title: Open Source Projects
+  type: time_table
   contents:
-    - title: Program Committee
-      items:
-        - <strong>PC member (Artifact Evaluation Track)</strong>, International Conference on Software Engineer (ICSE) 2025.
-        - <strong>PC member (Main Track)</strong>, International Web Information Systems Engineering Conference (WISE) 2024.
-    - title: Journal Reviewer
-      items:
-        - ACM Transactions on Software Engineering and Methodology (TOSEM)
-    - title: Sub Reviewer
-      items:
-        - IEEE CLOUD 2024
-        - IEEE EDGE 2024
+    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+      year: 2015-now
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2024
+    - year: 1921
       items:
-        - Best Short-Paper Award @ 12th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems
-    - year: 2019
+        - Nobel Prize in Physics
+        - Matteucci Medal
+    - year: 2029
       items:
-        - Winner team (People's choice prize) @ HackTheCloud
-    - year: 2018
-      items:
-        - Winner team (2nd prize) @ HackTheCloud
-    - year: 2017
-      items:
-        - Winner team @ Hack.Developers
+        - Max Planck Medal
 
-- title: Presentation and Talks
-  type: time_table
+- title: Academic Interests
+  type: nested_list
   contents:
-    - year: 2024
+    - title: Topic 1.
       items:
-        - "ReProbe: An Architecture for Reconfigurable and Adaptive Probes | IEEE ICSA 2024, Hyderabad, India."
-    - year: 2023
+        - Description 1.
+        - Description 2.
+    - title: Topic 2.
       items:
-        - An Energy-Aware Approach to Design Self-Adaptive AI-based Applications on the Edge | IEEE/ACM ASE 2023, Luxemburg City, Luxemburg.
-        - "Self-Adaptive Sustainable Systems at the Edge | AI/ML in the Era of Climate Change MS.C. course @ TU Wien, Vienna, Austria (Guest lecture)."
-    - year: 2022
-      items:
-        - "Towards Self-Adaptive Peer-To-Peer Monitoring for Fog Environments | IEEE/ACM SEAMS 2022, Pittsburg, USA (online)."
-    - year: 2021
-      items:
-        - "DFaaS: Decentralized Function-as-a-Service for Federated Edge Computing | IEEE CloudNet 2021, Cookeville, USA (online)."
-    - year: 2020
-      items:
-        - Declarative Dashboard Generation | GAUSS Workshop (IEEE ISSRE 2020), Coimbra, Portugal (online).
-    - year: 2019
-      items:
-        - "VARYS: A Technology Agnostic Model-Driven Monitoring-as-a-Service Framework for the Cloud | IEEE/ACM ESCE/FSE 2019, Tallin, Estonia."
-    - year: 2018
-      items:
-        - "Automazione e monitoring: la cultura DevOps attraverso due casi di studio [Invited Talk] | Workshop GARR, Rome, Italy."
+        - Description 1.
+        - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
