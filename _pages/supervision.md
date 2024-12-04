@@ -12,7 +12,7 @@ master students.
 
 - **Mr. Gabriele Sparacino**, _Master Thesis_, "Achieving Prediction-Based Self-Adaptive Monitoring Wireless Sensor Networks", University of Milano-Bicocca, Italy, ongoing.
 - **Ms. Julia Oberauner**, _Master Thesis_, "Dynamic Power Management in Edge AI: A Sustainable Self-Adaptive Approach", TU Wien, Austria, ongoing.
-- **Mr. Alexander Stefitz**, _Master Thesis_, "Anomaly Detection in Redundant Sensor Systems: A Comparative Study Using Photovoltaic Power Plant Data", TU Wien, Austria, ongoing.
+- **Mr. Alexander Stefitz**, _Master Thesis_, "Anomaly Detection in Redundant Sensor Systems: A Comparative Study Using Photovoltaic Power Plant Data", TU Wien, Austria, 2024.
 - **Mr. Bryan Ivan Zhigui Guerrero**, _Master Thesis_, "Model-driven Automatic Dashboard Generation", University of Milano-Bicocca, Italy, 2024.
 - **Mr. Luigi Avenoso**, _Master Thesis_, "Un Approccio per il Mantenimento dello Stato in Sistemi FaaS Decentralizzati", University of Milano-Bicocca, Italy, 2024.
 - **Mr. Michel Benedetti**, _Master Thesis_, "Scheduling Energy-Aware per Piattaforme a Container: Un Caso di Studio per Kubernetes", University of Milano-Bicocca, Italy, 2023.

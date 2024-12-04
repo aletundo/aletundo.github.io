@@ -90,8 +90,10 @@
     - title: Journal Reviewer
       items:
         - ACM Transactions on Software Engineering and Methodology (TOSEM)
+        - Elsevier Information and Software Technology (IST)
     - title: Sub Reviewer
       items:
+        - IEEE IPDPS 2025
         - IEEE CLOUD 2024
         - IEEE EDGE 2024
 
