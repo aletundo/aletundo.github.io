@@ -7,7 +7,7 @@ subtitle: Postdoc Researcher, <a href="https://informatics.tuwien.ac.at/people/a
 profile:
   align: right
   image: profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Room HB0504</p>
     <p>Favoritenstrasse 9-11</p>
