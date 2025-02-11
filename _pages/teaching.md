@@ -7,7 +7,25 @@ nav: true
 nav_order: 5
 ---
 
-I have been actively involved in [teaching](#teaching) activities in both bachelor and master degree programs.
+I have been actively involved in teaching activities in both bachelor and master degree programs.
+
+### Summer 2025: Data-Intensive Computing (194.048)
+
+_Lecturer, TU Wien, Austria_
+
+Theory:
+- MapReduce framework
+- Execution graphs
+- Code offloading for edge computing
+
+Practical part:
+- Apache Hadoop
+- Apache Spark
+- Implementation of large-scale data processing and ML tasks
+- Event-driven serveless computing
+
+
+I'm in charge of developing teaching materials and delivering in person classes, designing and grading the assignments.
 
 ### Winter 2024: AI/ML in the Era of Climate Change (194.125)
 
@@ -20,7 +38,7 @@ The main aim of the course is to provide students with two main topics:
 I'm in charge of developing teaching materials and delivering in person classes, designing and grading the assignments,
 and finally examinating the students at the end of the course.
 
-### Fixed-term Teaching Assistant (2017-now)
+### Fixed-term Teaching Assistant (2017-2024)
 
 _Laboratory lecturer and tutor, University of Milano-Bicocca, Italy_
 
@@ -31,7 +49,7 @@ laboratory final projects or assignments.
 Regarding course organizational aspects, I'm in charge of defining the assignments and their evaluation strategy,
 the topic of the laboratory sessions and their schedule, and finally preparing the teaching material.
 
-- Software Development Process (M.Sc. Computer Science) [A.Y. 19-20, 20-21, 21-22, 22-23, 23-24]
+- Software Development Process (M.Sc. Computer Science) [A.Y. 19-20, 20-21, 21-22, 22-23, 23-24, 24-25]
 - Cloud Computing (M.Sc. Computer Science) [A.Y. 19-20, 20-21, 21-22]
 - Data Management & Visualization (M.Sc. Data Science) [A.Y. 19-20]
 - Computer Science Laboratory I (B.Sc. Physics) [A.Y. 19-20]

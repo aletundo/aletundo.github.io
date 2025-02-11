@@ -18,10 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello, I'm happy you landed here!
+I'm a University Assistant (Postdoctoral Researcher) at the Institute of Information Systems Engineering,
+Technische Universität Wien, Vienna, Austria.
+In particular, I'm part of the [High Performance Computing (HPC) Group](http://hpc.ec.tuwien.ac.at/)
+lead by [Prof. Ivona Brandić](https://www.ec.tuwien.ac.at/~ivona/).
 
-I'm a Postdoctoral Researcher at the Institute of Information Systems Engineering, Technische Universität Wien, Vienna, Austria. In particular, I'm part of the [High Performance Computing (HPC) Group](http://hpc.ec.tuwien.ac.at/) lead by [Prof. Ivona Brandić](https://www.ec.tuwien.ac.at/~ivona/).
-
-My research interests are in the intersection of distributed systems and software architectures, with a particular focus on self-adaptivity, energy efficiency, and monitoring in the cloud continuum.
+My research interests lie at the intersection of software engineering (SE) and distributed systems, with a particular
+focus on cloud architecture monitoring, self-adaptation, and energy awareness in AI-based software systems.
+In the course of my research, I have used a variety of techniques, including but not limited to feature models,
+model-driven engineering, multi-objective optimization, gossip-based protocols, and rule-based expert systems.
 
 Previously, I received my Ph.D. in Computer Science with a honorable mention from the University of Milano-Bicocca in 2024.
