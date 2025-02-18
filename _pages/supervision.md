@@ -10,6 +10,8 @@ nav_order: 4
 I have been actively involved in co-supervision activities of both bachelor and
 master students.
 
+- **Dennis Leser**, _Master Thesis_, "Carbon-Aware Multi Data Center LLM Serving", TU Wien, Austria, ongoing.
+- **Victor Emmanuel Olusesi**, _Master Thesis_, "Data-Driven Synthesis of Finite-State Machines for AI-Based Self-Adaptive Applications", Tu Wien, Austria, ongoing.
 - **Philipp Rettig**, _Master Thesis_, "Adaptive Federated Zeroth-Order Fine-Tuning of Large Language Models on Resource-Constrained Devices", TU Wien, Austria, ongoing.
 - **Marko Gugleta**, _Master Thesis_, "Towards Livestock Location Prediction in Rural Areas using Federated Learning and Edge Computation", TU Wien, Austria, ongoing.
 - **Gabriele Sparacino**, _Master Thesis_, "Achieving Prediction-Based Self-Adaptive Monitoring Wireless Sensor Networks", University of Milano-Bicocca, Italy, ongoing.
