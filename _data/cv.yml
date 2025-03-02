@@ -85,10 +85,12 @@
   contents:
     - title: Program Committee
       items:
+        - <strong>PC member (Artifact Evaluation Track)</strong>, International Symposium on Cluster, Cloud, and Internet Computing (CCGrid) 2025.
         - <strong>PC member (Artifact Evaluation Track)</strong>, International Conference on Software Engineer (ICSE) 2025.
         - <strong>PC member (Main Track)</strong>, International Web Information Systems Engineering Conference (WISE) 2024.
     - title: Journal Reviewer
       items:
+        - Springer Design Automation for Embedded Systems (DAES)
         - ACM Transactions on Software Engineering and Methodology (TOSEM)
         - Elsevier Information and Software Technology (IST)
     - title: Sub Reviewer
