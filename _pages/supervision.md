@@ -7,14 +7,16 @@ nav: true
 nav_order: 4
 ---
 
-I have been actively involved in co-supervision activities of both bachelor and
-master students.
+I have been actively involved in co-supervision activities of bachelor, master, and Ph.D. students.
 
+- **Daniel May**, _PhD Thesis_, TBD, TU Wien, Austria, ongoing.
+- **Paul Maliakel**, _PhD Thesis_, TBD, TU Wien, Austria, ongoing.
+- **Felix Zilk**, _PhD Thesis_, "Time-efficient quantum program compilation: an empirical approach", TU Wien, Austria, ongoing.
 - **Dennis Leser**, _Master Thesis_, "Carbon-Aware Multi Data Center LLM Serving", TU Wien, Austria, ongoing.
 - **Victor Emmanuel Olusesi**, _Master Thesis_, "Data-Driven Synthesis of Finite-State Machines for AI-Based Self-Adaptive Applications", Tu Wien, Austria, ongoing.
 - **Philipp Rettig**, _Master Thesis_, "Adaptive Federated Zeroth-Order Fine-Tuning of Large Language Models on Resource-Constrained Devices", TU Wien, Austria, ongoing.
 - **Marko Gugleta**, _Master Thesis_, "Towards Livestock Location Prediction in Rural Areas using Federated Learning and Edge Computation", TU Wien, Austria, ongoing.
-- **Gabriele Sparacino**, _Master Thesis_, "Achieving Prediction-Based Self-Adaptive Monitoring Wireless Sensor Networks", University of Milano-Bicocca, Italy, ongoing.
+- **Gabriele Sparacino**, _Master Thesis_, "Achieving Prediction-Based Self-Adaptive Monitoring Wireless Sensor Networks", University of Milano-Bicocca, Italy, 2025.
 - **Julia Oberauner**, _Master Thesis_, "Dynamic Power Management in Edge AI: A Sustainable Self-Adaptive Approach", TU Wien, Austria, ongoing.
 - **Alexander Stefitz**, _Master Thesis_, "Anomaly Detection in Redundant Sensor SysteA Comparative Study Using Photovoltaic Power Plant Data", TU Wien, Austria, 2024.
 - **Bryan Ivan Zhigui Guerrero**, _Master Thesis_, "Model-driven Automatic Dashboard Generation", University of Milano-Bicocca, Italy, 2024.

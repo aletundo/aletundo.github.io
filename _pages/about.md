@@ -23,9 +23,10 @@ Technische Universität Wien, Vienna, Austria.
 In particular, I'm part of the [High Performance Computing (HPC) Group](http://hpc.ec.tuwien.ac.at/)
 lead by [Prof. Ivona Brandić](https://www.ec.tuwien.ac.at/~ivona/).
 
-My research interests lie at the intersection of software engineering (SE) and distributed systems, with a particular
-focus on cloud architecture monitoring, self-adaptation, and energy awareness in AI-based software systems.
-In the course of my research, I have used a variety of techniques, including but not limited to feature models,
-model-driven engineering, multi-objective optimization, gossip-based protocols, and rule-based expert systems.
+My research focused on software engineering (SE) and distributed systems, with particular emphasis on the automation of
+self-adaptive monitoring systems (TSC 2024, ICSA-C 2024, TSC 2023, SEAMS 2022, TAAS 2025), fully decentralized edge
+computing solutions (CloudNet 2021, TNSM 2025), and energy-aware AI-based applications (ASE 2023).
+In the course of my research, I have used various techniques, including but not limited to feature models, model-driven
+engineering, multi-objective optimization, rule-based expert systems, and gossip protocols.
 
 Previously, I received my Ph.D. in Computer Science with a honorable mention from the University of Milano-Bicocca in 2024.

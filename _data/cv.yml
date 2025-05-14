@@ -83,13 +83,20 @@
 - title: Services
   type: nested_list
   contents:
+    - title: Organizing Committee
+      items:
+        - 8th International Workshop on Context-Aware, Autonomous and Smart Architectures (CASA) 2025 [co-located with ECSA].
+        - 1st International Workshop on Systems and Methods for Sustainable Large-Scale AI (GreenSys) 2025 [co-located with EuroSys]
     - title: Program Committee
       items:
+        - <strong>PC member</strong>, Fast Continuum Workshop, co-located with IEEE SERVICES 2025.
+        - <strong>PC member (Main Track)</strong>, International Web Information Systems Engineering Conference (WISE) 2025.
         - <strong>PC member (Artifact Evaluation Track)</strong>, International Symposium on Cluster, Cloud, and Internet Computing (CCGrid) 2025.
         - <strong>PC member (Artifact Evaluation Track)</strong>, International Conference on Software Engineer (ICSE) 2025.
-        - <strong>PC member (Main Track)</strong>, International Web Information Systems Engineering Conference (WISE) 2024.
+        - <strong>PC member (Main Track, PhD Symposium)</strong>, International Web Information Systems Engineering Conference (WISE) 2024.
     - title: Journal Reviewer
       items:
+        - Springer Automated Software Engineering (ASE)
         - Springer Design Automation for Embedded Systems (DAES)
         - ACM Transactions on Software Engineering and Methodology (TOSEM)
         - Elsevier Information and Software Technology (IST)
