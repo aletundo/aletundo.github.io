@@ -32,17 +32,21 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Senior Software Engineer
+      institution: TourRadar, Vienna, Austria
+      year: 11/2025-present
+      description:
     - title: Postdoctoral Researcher
       institution: Technische Universität Wien, Vienna, Austria
-      year: 06/2024-now
+      year: 06/2024-10/2025
       description:
-        - I'm part of the <a href="http://hpc.ec.tuwien.ac.at/">High Performance Computing (HPC) Group</a> lead by <a href="https://www.ec.tuwien.ac.at/~ivona/"> Prof. Ivona Brandić</a>.
-        - My research focuses on the design and development of self-adaptive and energy-efficient software systems for the cloud continuum.
+        - I've been part of the <a href="https://hpc.ec.tuwien.ac.at/">Computational Sustainability Research Unit</a> lead by <a href="https://www.ec.tuwien.ac.at/~ivona/"> Prof. Ivona Brandić</a>.
+        - My research focused on the design and development of self-adaptive and energy-efficient software systems for the cloud continuum.
     - title: Visiting PhD Student
       institution: Technische Universität Wien, Vienna, Austria
       year: 09/2022-01/2024
       description:
-    - title: Software Architect & DevOps Engineer
+    - title: Software Engineer
       institution: Milan, Italy
       year: 01/2020-12/2023
       description:
@@ -54,7 +58,7 @@
         - The research activity entitled aims to extend and enhance the main functionalities of the VARYS framework.
         - VARYS is a technology agnostic model-driven Monitoring-as-a-Service framework for the Cloud.
         - The research work was supervised by Prof. Leonardo Mariani.
-    - title: DevOps Engineer
+    - title: Software Engineer
       institution: Quisque Srl., Milan, Italy
       year: 01/2020-10/2020
       description:
@@ -74,7 +78,7 @@
         - The research work was supervised by PRof. Daniela Micucci (University of Milano-Bicocca) and by the GARR Scientific and Technical Committee.
         - In particular, I worked on the design and development of a new version of the WikiToLearn platform.
         - WikiToLearn was a wiki-based open source project for collaborative textbooks writing under the KDE Community umbrella.
-    - title: Full Stack Developer
+    - title: Full-stack Software Engineer
       institution: 2Program Srl., Milan, Italy
       year: 12/2015-02/2017
       description:
